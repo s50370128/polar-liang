@@ -69,7 +69,7 @@ social:
   link: files/Polar_Liang_Curriculum_Vitae_Full.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "b97501002@gmail.com"
+email: "cjliang@umich.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
