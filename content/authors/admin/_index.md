@@ -56,6 +56,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=EhEa8ekAAAAJ&hl=en
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Ci_Jyun_Liang
 - icon: github
   icon_pack: fab
   link: https://github.com/s50370128
