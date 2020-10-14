@@ -4,7 +4,7 @@ authors:
 - admin
 - Vineet R. Kamat
 - Carol C. Menassa
-author_notes:
+author_notes: ""
 date: "2020-12-01"
 doi: ""
 
@@ -18,13 +18,13 @@ publishDate: "2020-08-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Automation in Construction*120"
+publication: "*Automation in Construction*, 120"
 publication_short: ""
 
 abstract: Robots can assist workers in performing physically-demanding construction tasks, which are typically quasi-repetitive, wherein the geometry of the workspace is dissimilar despite similar tasks. As a result, robots must determine motion trajectories based on the encountered workspace geometry. Learning from Demonstration (LfD) methods have the potential to be used in teaching robots specific tasks through human demonstration, such that robots can then perform learned tasks under different conditions. In this paper, the LfD method is investigated to teach robots how to perform quasi-repetitive construction tasks. Considering ceiling tile installation as the experimental process, the tasks of maneuvering and positioning tiles in a ceiling grid are defined as the target knowledge to be learned. Using a set of human demonstration videos, the designed approach first translates the physical work context, e.g., the pose of the tile, to the target digital twin, i.e., the workspace as-perceived by the robot. The Reinforcement Learning method is then applied to generate the control policy for the robot to perform the subsequent tasks. The proposed method is evaluated in the Robot Operating System (ROS) Gazebo simulator using a KUKA mobile industrial robotic arm emulator and 60 different scenes as test cases. The results show a 78% success rate in installing ceiling tiles based on 3000 virtual and 85 real demonstration videos. The success rate tends to continually rise with an increase in the number of real demonstration videos, confirming the promise and applicability of the LfD method in teaching robot apprentices to perform quasi-repetitive tasks on construction sites.
 
 # Summary. An optional shortened abstract.
-summary: Robot learning from demonstration, Visual demonstration, Autoencoder, Reinforcement learning, Digital twin, Ceiling tile installation, Robot apprentice.
+summary: ""
 
 tags:
 # - Source Themes
