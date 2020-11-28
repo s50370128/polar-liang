@@ -5,7 +5,7 @@ authors:
 - Shih-Chung Kang
 - Meng-Hsueh Lee
 date: "2017-09-13T00:00:00Z"
-doi: ""
+doi: "10.1007/s41315-017-0030-x"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-09-13T00:00:00Z"
@@ -55,7 +55,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: ['ras']
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -64,9 +64,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-<!-- {{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). -->
