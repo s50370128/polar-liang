@@ -29,18 +29,20 @@ function showSlides(n) {
   slides[slideIndex-1].style.display = "block";
   dots[slideIndex-1].className += " active";
 
-  if (document.getElementById("allBlack")) {
+  if (!document.getElementById("noArrow")) {
+    if (document.getElementById("allBlack")) {
       arrowRight[0].style.color = "black";
       arrowLeft[0].style.color = "black";
-  }
-  else {
+    }
+    else {
       if (slideIndex == 1) {
           arrowRight[0].style.color = "black";
           arrowLeft[0].style.color = "black";
-    }
-    else {
+      }
+      else {
         arrowRight[0].style.color = "white";
         arrowLeft[0].style.color = "white";
+      }
     }
   }
 }
