@@ -81,4 +81,4 @@ user_groups:
 - Visitors
 ---
 
-Polar is currently a Ph.D. candidate in Civil and Environmental Engineering at the University of Michigan. He is working with Prof. Vineet R. Kamat and Prof. Carol C. Menassa in the Laboratory for Interactive Visualization in Engineering (LIVE Robotics group). His research interests include construction robotics, computer vision, reinforcement learning, building information modeling (BIM), and extended reality. Polar also holds a M.S. in Robotics from the University of Michigan, and M.S. and B.S. in Civil Engineering from National Taiwan University.
+Polar is currently a Ph.D. candidate in the Department of Civil and Environmental Engineering at the University of Michigan. He is working with Prof. Vineet R. Kamat and Prof. Carol C. Menassa in the Laboratory for Interactive Visualization in Engineering (LIVE Robotics group). His research interests include construction robotics, computer vision, reinforcement learning, building information modeling (BIM), and extended reality. Polar also holds a M.S. in Robotics from the University of Michigan, and M.S. and B.S. in Civil Engineering from National Taiwan University.
