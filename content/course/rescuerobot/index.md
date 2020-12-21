@@ -6,8 +6,8 @@ authors:
 
 summary: Develop a search algorithm for an indoor rescue robot.
 tags:
-- Robotics
 - Visualization
+- Robotics
 date: "2010-11-12T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
