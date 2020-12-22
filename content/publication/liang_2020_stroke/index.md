@@ -9,7 +9,7 @@ authors:
 - Michelle Aebersold
 author_notes: ""
 date: "2020-10-09"
-doi: ""
+doi: "10.1007/s10055-020-00475-1"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-10-13T00:00:00Z"
@@ -57,7 +57,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: ['arct']
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
