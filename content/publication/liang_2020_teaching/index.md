@@ -6,7 +6,7 @@ authors:
 - Carol C. Menassa
 author_notes: ""
 date: "2020-12-01"
-doi: ""
+doi: "10.1016/j.autcon.2020.103370"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-08-01T00:00:00Z"
@@ -54,7 +54,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: ['vlfd']
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

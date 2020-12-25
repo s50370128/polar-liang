@@ -8,7 +8,7 @@ authors:
 - SangHyun Lee
 - Vineet R. Kamat
 date: "2019-08-01T00:00:00Z"
-doi: ""
+doi: "10.1016/j.autcon.2019.04.004"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2019-08-01T00:00:00Z"
