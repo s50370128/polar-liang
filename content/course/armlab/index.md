@@ -9,7 +9,7 @@ summary:  Program a manipulator to identify object's position in a global frame 
 tags:
 - Robotics
 - Computer Vision
-date: "2016-12-03T00:00:00Z"
+date: "2016-10-19T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
