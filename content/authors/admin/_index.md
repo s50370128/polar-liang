@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate
+role: Ph.D.
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://live.engin.umich.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include construction robotics, computer vision, reinforcement learning, BIM, and extended reality.
+bio: My research interests include human-robot collaboration, computer vision, reinforcement learning, BIM, and extended reality.
 
 interests:
 - Robotics
@@ -31,7 +31,7 @@ education:
   courses:
   - course: Ph.D. in Civil and Environmental Engineering
     institution: University of Michigan
-    year: 2021 (expected)
+    year: 2021
   - course: M.S. in Robotics
     institution: University of Michigan
     year: 2017
@@ -81,4 +81,4 @@ user_groups:
 - Visitors
 ---
 
-Polar is currently a Ph.D. candidate in the Department of Civil and Environmental Engineering at the University of Michigan. He is working with Prof. Vineet R. Kamat and Prof. Carol C. Menassa in the Laboratory for Interactive Visualization in Engineering (LIVE Robotics group). His research interests include construction robotics, computer vision, reinforcement learning, building information modeling (BIM), and extended reality. Polar also holds a M.S. in Robotics from the University of Michigan, and M.S. and B.S. in Civil Engineering from National Taiwan University.
+Polar recently received a Ph.D. in the Department of Civil and Environmental Engineering at the University of Michigan. His research and teaching interests include human-robot collaboration, computer vision, reinforcement learning, building information modeling (BIM), and extended reality with applications in construction and digital fabrication. Prior to studying at the University of Michigan, he worked as a research associate at National Taiwan University. Polar also holds a M.S. in Robotics from the University of Michigan, and M.S. and B.S. in Civil Engineering from National Taiwan University.
