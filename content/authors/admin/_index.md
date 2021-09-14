@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D.
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: LIVE Robotics Group, University of Michigan
-  url: "https://live.engin.umich.edu/"
+- name: National Institute for Occupation Safety and Health (NIOSH)
+  url: "https://www.cdc.gov/niosh/topics/robotics/default.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include human-robot collaboration, computer vision, reinforcement learning, BIM, and extended reality.
+bio: My research interests include Human-Robot Collaboration, Computer Vision, Reinforcement Learning, BIM, and Extended Reality.
 
 interests:
 - Robotics
@@ -81,4 +81,4 @@ user_groups:
 - Visitors
 ---
 
-Polar recently received a Ph.D. in the Department of Civil and Environmental Engineering at the University of Michigan. His research and teaching interests include human-robot collaboration, computer vision, reinforcement learning, building information modeling (BIM), and extended reality with applications in construction and digital fabrication. Prior to studying at the University of Michigan, he worked as a research associate at National Taiwan University. Polar also holds a M.S. in Robotics from the University of Michigan, and M.S. and B.S. in Civil Engineering from National Taiwan University.
+Polar is a research fellow at the National Institute for Occupation Safety and Health (NIOSH), Center for Occupational Robotics Research. His research and teaching interests include Human-Robot Collaboration, Computer Vision, Reinforcement Learning, Building Information Modeling (BIM), and Extended Reality (XR) to develop the future workspace in construction and digital fabrication. He received his Ph.D. in the Department of Civil and Environmental Engineering at the University of Michigan. He also received his M.S. in Robotics from the University of Michigan, and M.S. and B.S. in Civil Engineering from National Taiwan University.
