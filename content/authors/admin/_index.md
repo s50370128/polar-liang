@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Fellow
+role: Robotics Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -18,13 +18,13 @@ organizations:
   url: "https://www.cdc.gov/niosh/topics/robotics/default.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Human-Robot Collaboration, Computer Vision, Reinforcement Learning, BIM, and Extended Reality.
+bio: My research interests include Human-Robot Collaboration, Computer Vision, Reinforcement Learning, BIM, Digital Twins, and Extended Reality.
 
 interests:
 - Robotics
 - Computer Vision
 - Reinforcement Learning
-- BIM
+- BIM and Digital Twins
 - Extended Reality (XR)
 
 education:
@@ -81,4 +81,4 @@ user_groups:
 - Visitors
 ---
 
-Polar is a robotics fellow in the Division of Safety Research and Center for Occupational Robotics Research at National Institute for Occupational Safety and Health (NIOSH). His research and teaching interests include Human-Robot Collaboration, Computer Vision, Reinforcement Learning, Building Information Modeling (BIM), and Digital Twins to promote sustainability and safety in future construction and manufacturing sites. He received his Ph.D. in Civil Engineering and M.S. in Robotics at the University of Michigan. He also received M.S. and B.S. in Civil Engineering from National Taiwan University.
+Polar is a Robotics Fellow in the Division of Safety Research and Center for Occupational Robotics Research at National Institute for Occupational Safety and Health (NIOSH). His research and teaching interests include Human-Robot Collaboration, Computer Vision, Reinforcement Learning, Building Information Modeling (BIM), Digital Twins, and Extended Reality (XR) to promote sustainability and safety in future construction and manufacturing sites. He received his Ph.D. in Civil Engineering and M.S. in Robotics at the University of Michigan. He also received M.S. and B.S. in Civil Engineering from National Taiwan University.
