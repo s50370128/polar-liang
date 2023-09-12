@@ -19,11 +19,6 @@
   weight = 50
 
 [[main]]
-  name = "Course Projects"
-  url = "#course"
-  weight = 55
-
-[[main]]
   name = "Selected Publications"
   url = "#featured"
   weight = 40
