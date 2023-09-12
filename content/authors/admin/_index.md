@@ -49,7 +49,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:b97501002@gmail.com'  # For a direct email link, use "mailto:b97501002@gmail.com".
+  link: 'mailto:Ci-Jyun.Liang@stonybrook.edu'  # For a direct email link, use "mailto:b97501002@gmail.com".
 # - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -69,7 +69,7 @@ social:
   link: files/Polar_Liang_Curriculum_Vitae_Full.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "cjliang@umich.edu"
+email: "Ci-Jyun.Liang@stonybrook.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -81,4 +81,4 @@ user_groups:
 - Visitors
 ---
 
-Polar is a Robotics Fellow in the Division of Safety Research and Center for Occupational Robotics Research at National Institute for Occupational Safety and Health (NIOSH). His research and teaching interests include Human-Robot Collaboration, Computer Vision, Reinforcement Learning, Building Information Modeling (BIM), Digital Twins, and Extended Reality (XR) to promote sustainability and safety in future construction and manufacturing sites. He received his Ph.D. in Civil Engineering and M.S. in Robotics at the University of Michigan. He also received M.S. and B.S. in Civil Engineering from National Taiwan University.
+Polar is a Robotics Fellow in the Division of Safety Research at National Institute for Occupational Safety and Health (NIOSH). Dr. Liang's research interests include human-robot collaboration, computer vision, reinforcement learning, building information modeling (BIM), digital twins, and extended reality to promote sustainability and safety in future robotized workplaces such as construction sites, manufacturing plants, and warehouses. His current research involves (1) developing a computer vision and sensor fusion system for identifying safety hazards in human-robot collaboration, (2) developing collaborative robots, extended reality, and imitation learning algorithms for sustainable construction and built environments, (3) investigating reinforcement learning methods, BIM, and digital twins for closing sim-to-real gaps in unstructured construction environments. He received his Ph.D. in Civil Engineering and M.S. in Robotics at the University of Michigan. He also received M.S. and B.S. in Civil Engineering from National Taiwan University.
