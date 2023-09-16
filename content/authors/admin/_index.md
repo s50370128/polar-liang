@@ -16,6 +16,9 @@ role: Robotics Fellow
 organizations:
 - name: National Institute for Occupation Safety and Health (NIOSH)
   url: "https://www.cdc.gov/niosh/topics/robotics/default.html"
+- name: Assistant Professor (Jan 2024)
+- name: Stony Brook University
+  url: "https://www.stonybrook.edu/commcms/civileng/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Human-Robot Collaboration, Computer Vision, Reinforcement Learning, BIM, Digital Twins, and Extended Reality.
@@ -81,4 +84,4 @@ user_groups:
 - Visitors
 ---
 
-Polar is a Robotics Fellow in the Division of Safety Research at National Institute for Occupational Safety and Health (NIOSH). Dr. Liang's research interests include human-robot collaboration, computer vision, reinforcement learning, building information modeling (BIM), digital twins, and extended reality to promote sustainability and safety in future robotized workplaces such as construction sites, manufacturing plants, and warehouses. His current research involves (1) developing a computer vision and sensor fusion system for identifying safety hazards in human-robot collaboration, (2) developing collaborative robots, extended reality, and imitation learning algorithms for sustainable construction and built environments, (3) investigating reinforcement learning methods, BIM, and digital twins for closing sim-to-real gaps in unstructured construction environments. He received his Ph.D. in Civil Engineering and M.S. in Robotics at the University of Michigan. He also received M.S. and B.S. in Civil Engineering from National Taiwan University.
+Polar is a Robotics Fellow in the Division of Safety Research at National Institute for Occupational Safety and Health (NIOSH). He will join the Department of Civil Engineering at Stony Brook University in January 2024. His research interests include human-robot collaboration, computer vision, reinforcement learning, building information modeling (BIM), digital twins, and extended reality to promote sustainability and safety in future robotized workplaces such as construction sites, manufacturing plants, and warehouses. His current research involves (1) developing a computer vision and sensor fusion system for identifying safety hazards in human-robot collaboration, (2) developing collaborative robots, extended reality, and imitation learning algorithms for sustainable construction and built environments, (3) investigating reinforcement learning methods, BIM, and digital twins for closing sim-to-real gaps in unstructured construction environments.
