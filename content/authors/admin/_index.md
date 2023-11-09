@@ -10,15 +10,15 @@ authors:
 superuser: true
 
 # Role/position
-role: Robotics Fellow
+role: Assistant Professor (Jan 2024)
 
 # Organizations/Affiliations
 organizations:
-- name: National Institute for Occupation Safety and Health (NIOSH)
-  url: "https://www.cdc.gov/niosh/topics/robotics/default.html"
-- name: Assistant Professor (Jan 2024)
 - name: Stony Brook University
   url: "https://www.stonybrook.edu/commcms/civileng/"
+- name: Director
+- name: CROSS Lab
+  url: "https://you.stonybrook.edu/crosslab/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Human-Robot Collaboration, Computer Vision, Reinforcement Learning, BIM, Digital Twins, and Extended Reality.
